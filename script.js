@@ -2,17 +2,20 @@ let num = 0;
 let plusClickCounter = 0
 let minusClickCounter = 0
 const yellow = "#fc7703";
+const pink = "#f78396"
 const selectosAndColors = {
-"#redBtn":"red",
-"#greenBtn":"green",
+"#redBtn": "red",
+"#greenBtn": "green",
 "#blueBtn": "blue",
-"#yellowBtn":yellow
+"#yellowBtn": yellow,
+"#pinkBtn": pink
 }
 const opacityCounter = {
- "#redBtn": 0.2,
-"#greenBtn":0.2,
-"#blueBtn": 0.2,
-"#yellowBtn":0.2
+ "#redBtn":   0.2,
+"#greenBtn":  0.2,
+"#blueBtn":   0.2,
+"#yellowBtn": 0.2,
+"#pinkBtn":   0.2
 }
 const counter = document.querySelector("#counter");
 const plusNum = document.querySelector("#plusbtn")

@@ -35,7 +35,7 @@ body{
   height: 20px;
   background-color: red;
   border: 0px;
-  border-radius: 2px;
+  border-radius: 3px;
   margin: 0 5px 0 5px;
 }
 #redBtn{
@@ -51,7 +51,7 @@ body{
   background-color: #fc7703;
 }
 #pinkBtn{
-  background-color: rgb(247, 131, 150);
+  background-color: #f78396;
 }
 .statsContainer{
    display: flex;
@@ -64,4 +64,20 @@ body{
 .statsContainer__btn{
   height: 40px;
   font-size: 25px;
+}
+.nightMode{
+  display: flex;
+  width: 50px;
+  background-color: #D6D58E;
+  padding: 4px;
+  border-radius: 15px;
+  position:fixed;
+  top: 10px;
+  right: 30px;
+}
+.nightMode__btn{
+  width: 20px;
+  height: 20px;
+  background-color: #042940;
+  border-radius: 15px;
 }

@@ -1,0 +1,25 @@
+{
+  "name": "counter-inputplusminus-colors-status",
+  "version": "1.0.0",
+  "description": "html css ans js project to testing new feats",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BezerraPedrinho/counter-inputPlusMinus-colors-Status.git"
+  },
+  "keywords": [
+    "htmlcssjs"
+  ],
+  "author": "Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BezerraPedrinho/counter-inputPlusMinus-colors-Status/issues"
+  },
+  "homepage": "https://github.com/BezerraPedrinho/counter-inputPlusMinus-colors-Status#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
